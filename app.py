@@ -30,8 +30,9 @@ def main():
 
     st.sidebar.title("Informes")
     st.sidebar.write("Javier Horacio Pérez Ricárdez")
-    st.sidebar.write("Móvil-1: +52 55 7425 5593")
-    st.sidebar.write("Móvil-2: + 52 993 291 3812")
+    st.sidebar.write("WhatsApp-1: +52 55 7425 5593")
+    st.sidebar.write("WhatsApp-2: +52 99 3291 3812")
+    st.sidebar.write("WhatsApp-3: +52 24 6159 3018") 
     st.sidebar.markdown("---")
     st.sidebar.write("© 2024 Quesos de Tlaxcala, Tlax. Todos los derechos reservados.")
 
